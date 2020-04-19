@@ -1,0 +1,6 @@
+framework module helloCoco {
+  umbrella header "helloCoco-umbrella.h"
+
+  export *
+  module * { export * }
+}

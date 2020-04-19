@@ -1,0 +1,22 @@
+{
+  "name": "helloCoco",
+  "version": "0.1.0",
+  "summary": "A short description of helloCoco.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AsafZalcman-jfrog/helloCoco",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AsafZalcman-jfrog": "asafz@jfrog.com"
+  },
+  "source": {
+    "git": "https://github.com/AsafZalcman-jfrog/helloCoco.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "helloCoco/Classes/**/*"
+}
